@@ -1,0 +1,41 @@
+{
+    "filmes": [
+      {
+        "id": 1,
+        "titulo": "O Exorcista",
+        "ano": 1973,
+        "diretor": "William Friedkin",
+        "sinopse": "Uma jovem garota é possuída por um demônio, e sua mãe busca ajuda de dois padres para salvá-la.",
+        "imagem": "https://m.media-amazon.com/images/I/51K8ouYrHeL._AC_.jpg",
+        "link": "https://www.imdb.com/title/tt0070047/"
+      },
+      {
+        "id": 2,
+        "titulo": "O Iluminado",
+        "ano": 1980,
+        "diretor": "Stanley Kubrick",
+        "sinopse": "Um homem aceita um emprego como zelador em um hotel remoto e isolado, onde ele começa a perder a sanidade devido às forças sobrenaturais presentes.",
+        "imagem": "https://m.media-amazon.com/images/I/51MAbhF-JTL._AC_.jpg",
+        "link": "https://www.imdb.com/title/tt0081505/"
+      },
+      {
+        "id": 3,
+        "titulo": "Halloween",
+        "ano": 1978,
+        "diretor": "John Carpenter",
+        "sinopse": "Um psicopata que escapou de um hospital psiquiátrico retorna à sua cidade natal e começa a perseguir uma jovem e seus amigos na noite de Halloween.",
+        "imagem": "https://m.media-amazon.com/images/I/51cC1B+1+SL._AC_.jpg",
+        "link": "https://www.imdb.com/title/tt0077651/"
+      },
+      {
+        "id": 4,
+        "titulo": "A Bruxa de Blair",
+        "ano": 1999,
+        "diretor": "Daniel Myrick, Eduardo Sánchez",
+        "sinopse": "Três estudantes de cinema desaparecem enquanto filmam um documentário sobre uma lenda local. Suas gravações são encontradas mais tarde, mostrando os eventos horríveis que levaram ao seu desaparecimento.",
+        "imagem": "https://m.media-amazon.com/images/I/51Eq5MJuuLL._AC_.jpg",
+        "link": "https://www.imdb.com/title/tt0185937/"
+      }
+    ]
+  }
+  
